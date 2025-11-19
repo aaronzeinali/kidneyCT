@@ -35,14 +35,7 @@
       <tr><td><code>/data/images/tumor/</code></td><td>Original CT slices showing renal tumors</td></tr>
       <tr><td><code>/data/images/stone/</code></td><td>Original CT slices showing stones</td></tr>
 
-      <tr><td><code>/processed_images/</code></td>
-          <td><strong>NEW:</strong> ROI-extracted images using enhanced processing & precision-region extraction (details below)</td>
-      </tr>
 
-      <tr><td><code>/metadata/labels.csv</code></td><td>Metadata manifest (<code>filename, label, patient_id, series_id, notes</code>)</td></tr>
-      <tr><td><code>/notebooks/</code></td><td>Jupyter notebooks for loading, visualization, preprocessing & baseline models</td></tr>
-      <tr><td><code>/LICENSE</code></td><td>Dataset license</td></tr>
-    </tbody>
   </table>
 </section>
 
